@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweek6_test01"]=self["webpackChunkweek6_test01"]||[]).push([[821],{821:function(e,n,t){t.r(n),t.d(n,{default:function(){return f}});var r=t(252);function u(e,n){return(0,r.wg)(),(0,r.iD)("h2",null,"前台首頁")}var s=t(744);const c={},a=(0,s.Z)(c,[["render",u]]);var f=a}}]);
+//# sourceMappingURL=821.2679ebb5.js.map
